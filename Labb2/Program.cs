@@ -8,16 +8,25 @@ new() {Name = "Alex"},
 new() {Name = "Martin"},
 ];
 
-// 10.151.168.93:5005
+// 10.151.168.71:5005
 
 app.Urls.Add("http://localhost:5005/");
 app.Urls.Add("http://*:5005/");
 
 app.MapGet("/", GetHello);
 app.MapGet("/teacher", GetTeachers);
-app.MapGet("/teacher/ {n}", GetTeacher);
+app.MapGet("/teacher/{n}", GetTeacher);
+app.MapPost("/teacher", PostTeacher);
 
 app.Run();
+
+void PostTeacher(Teacher t)
+{
+    Console.WriteLine("Got new teacher: " + t.Name);
+
+    teachers.Add(t);
+    
+}
 
 
 List<Teacher> GetTeachers()

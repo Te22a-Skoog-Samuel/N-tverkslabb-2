@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj": {}
+    "C:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj": {
+    "C:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj",
+        "projectUniqueName": "C:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj",
         "projectName": "Labb2",
-        "projectPath": "c:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj",
+        "projectPath": "C:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\Labb2.csproj",
         "packagesPath": "C:\\Users\\samuel.skoog\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\obj\\",
+        "outputPath": "C:\\Users\\samuel.skoog\\Documents\\Programering 2\\Nätverkslabb 2\\Labb2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samuel.skoog\\AppData\\Roaming\\NuGet\\NuGet.Config",
